@@ -1,0 +1,16 @@
+# Exclude files from repo
+wp-content/updraft/*
+wp-content/cache/*
+wp-content/upgrade/*
+wp-content/uploads/*
+sitemap.*
+
+.ftpquota
+
+wp-config.php
+local-config.php
+
+# OS / Text editor files
+.DS_Store
+*.sublime-project
+*.sublime-workspace
