@@ -5,6 +5,12 @@ wp-content/upgrade/*
 wp-content/uploads/*
 sitemap.*
 
+.htaccess
+
+wp-content/advanced-cache.php
+wp-content/db.php
+wp-content/w3tc-config/*
+
 .ftpquota
 
 wp-config.php
